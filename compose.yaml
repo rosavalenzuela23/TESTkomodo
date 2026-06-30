@@ -2,5 +2,5 @@ services:
   balancer:
     image: nginx:latest
     ports:
-      - 8084:80
+      - 8085:80
       - 8443:443
